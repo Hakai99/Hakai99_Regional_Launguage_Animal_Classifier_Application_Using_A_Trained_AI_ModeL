@@ -14,16 +14,16 @@ An intelligent, real-time animal detection Android application built with Tensor
 ## Supported Animals
 
 The app detects 11 Assamese animals:
-- ম'হ (Bear)
-- মেকুৰী (Parrot)
-- গৰু (Cow)
-- কুকুৰ (Dog)
-- হাঁহ (Duck)
-- হাতী (Elephant)
-- ছাগলী (Goat)
-- বান্দৰ (Monkey)
-- পাৰ চৰাই (Bird)
-- কাছ (Turtle)
+1. হাঁহ (Duck)
+2. মেকুৰী (Parrot)
+3. গৰু (Cow)
+4. কুকুৰ (Dog)
+5. হাঁহ (Duck)
+6. হাতী (Elephant)
+7. লগনিয়া (Monkey/Langur)
+8. পাৰ চৰাই (Bird)
+9. ম'হ (Bufallow)
+10. কাছ (Turtle)
 
 ## Technology Stack
 
