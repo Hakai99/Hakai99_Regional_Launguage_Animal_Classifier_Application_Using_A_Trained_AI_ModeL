@@ -63,7 +63,7 @@ The app detects 11 Assamese animals:
 This project is open-source and available for educational purposes.
 
 ## 👨‍💻 Author
-
+Dev Kumar Lahkar
 Developed as an educational tool to teach children about animals in their native Assamese language.
 
 ## 🤝 Contributing
