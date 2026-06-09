@@ -23,7 +23,6 @@ The app detects 11 Assamese animals:
 - ছাগলী (Goat)
 - বান্দৰ (Monkey)
 - পাৰ চৰাই (Bird)
-- গঁড় (Rhinoceros)
 - কাছ (Turtle)
 
 ## Technology Stack
